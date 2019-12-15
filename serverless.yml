@@ -3,6 +3,8 @@ name: tencent-fullstack-vue-application
 dashboard:
   component: '@serverless/tencent-website'
   inputs:
+    region: ap-guangzhou
+    bucketName: test-serverless
     code:
       src: dist
       root: dashboard
