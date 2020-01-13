@@ -17,7 +17,7 @@ api:
   component: '@serverless/tencent-express'
   inputs:
     code: ./api
-    functionName: tencent-fullstack-vue-api
+    functionName: test-serverless-api
     apigatewayConf:
       protocols:
         - https

@@ -1,5 +1,5 @@
 {
-  "name": "templates\\tencent-fullstack-vue-application",
+  "name": "test-serverless",
   "version": "0.0.0",
   "dependencies": {
     "@serverless/tencent-express": "^2.0.0",
